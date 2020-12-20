@@ -2,9 +2,11 @@
 We provide a PyTorch implementation of LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
 
 Framework of LREN:
+
 ![schematic_diagram](https://github.com/xdjiangkai/LREN/blob/main/schematic_diagram.png "Framework of LREN")
 
 # Prerequisites
+
 - Linux 18.04 LTS
 - Python 3.7.8
 - Pytorch 1.5.1
@@ -13,6 +15,7 @@ Framework of LREN:
 
 # Citation
 If you use this code for your research, please cite:
+
 Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
 Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
 
