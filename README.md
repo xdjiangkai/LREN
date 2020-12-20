@@ -20,4 +20,4 @@ Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
 Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
 
 # Running Code
-In this code, you can run our models on on four [benchmark hyperspectral datasets][http://xudongkang.weebly.com/data-sets.html], including SanDiego, Hydice, Coast, and Pavia.
+In this code, you can run our models on on four [benchmark hyperspectral datasets](http://xudongkang.weebly.com/data-sets.html), including SanDiego, Hydice, Coast, and Pavia.
