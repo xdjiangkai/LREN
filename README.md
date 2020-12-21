@@ -17,7 +17,6 @@ Framework of LREN:
 If you use this code for your research, please cite:
 
 Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
-
 Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
 
 # Running Code
