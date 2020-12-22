@@ -38,12 +38,12 @@ For the ease of reproducibility. We provide experimental results on hyperspectra
 ![Detection_Results](https://github.com/xdjiangkai/LREN/blob/main/Result.png "Detection Results")
 
 ## Extension
-Our approach is based on the following three properties:
+Since our approach is based on the following three properties:
 1. The background (i.e., the normal instances) still preserves a low-rank property lying in a low-dimensional manifold.
 2. The presence probability of the anomaly is much lower than that of the background (i.e., the normal instances).
 3. The latent representation serves the anomaly estimation, which optimally updates the parameters of the deep latent space.  
 
-Thus, LREN is applicable to anomaly detection tasks that satisfy these three properties. We conducted experiments on [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/#table1) to demonstrate the effectiveness of LREN in other anomaly detection tasks.
+LREN is applicable to anomaly detection tasks that satisfy these three properties. We conducted experiments on [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/#table1) to demonstrate the effectiveness of LREN in other anomaly detection tasks.
 
 |Dataset   |AUC(P_d, P_f)  |AUC(P_f, \tau) |Precision|Recall   |F1       |
 |:-----:   |:----------:   |:-----------:  |:-------:|:-------:|:-------:|
