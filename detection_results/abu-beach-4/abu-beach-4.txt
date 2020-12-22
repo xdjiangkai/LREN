@@ -1,0 +1,7 @@
+abu-beach-4
+lambda=100
+
+Energy-map cluster centers:7 hidden nodes:9
+AUC:0.9928573120750515
+FPR:0.043182081099575394
+lam:0.0001
