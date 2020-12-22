@@ -34,4 +34,3 @@ For the ease of reproducibility. We provide some of the experimental results and
 |Pavia   |0.9925         |0.0433         |
 |Average |0.9951         |0.0236         |
 
-
