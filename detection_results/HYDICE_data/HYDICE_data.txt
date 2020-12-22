@@ -1,0 +1,7 @@
+HYDICE_data
+lambda=100
+
+Energy-map cluster centers:7 hidden nodes:9
+AUC:0.9997559994460529
+FPR:0.008677107095985187
+lam:0.01
