@@ -32,7 +32,7 @@ python run_main_LREN.py
 
 # Result
 ## Hyperspectral Datasets
-For the ease of reproducibility. We provide experimental results on hyperspectral datasets as belows:
+For the ease of reproducibility. We provide [experimental results](https://github.com/xdjiangkai/LREN/tree/main/detection_results) on hyperspectral datasets as belows:
 
 |Dataset |AUC(P_d, P_f)  |AUC(P_f, \tau) |
 |:-----: |:----------:   |:-----------:  |
