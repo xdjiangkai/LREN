@@ -5,6 +5,8 @@ Framework of LREN:
 
 ![Schematic Diagram](https://github.com/xdjiangkai/LREN/blob/main/schematic_diagram.png "Framework of LREN")
 
+
+
 # Prerequisites
 
 - Linux 18.04 LTS
