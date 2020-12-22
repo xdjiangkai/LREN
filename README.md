@@ -1,5 +1,5 @@
 # LREN
-We provide a Tensorflow implementation of LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
+We provide a Tensorflow implementation of LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection (AAAI2021).
 
 Framework of LREN:
 
