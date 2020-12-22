@@ -3,7 +3,7 @@ We provide a PyTorch implementation of LREN: Low-Rank Embedded Network for Sampl
 
 Framework of LREN:
 
-![schematic_diagram](https://github.com/xdjiangkai/LREN/blob/main/schematic_diagram.png "Framework of LREN")
+![Schematic Diagram](https://github.com/xdjiangkai/LREN/blob/main/schematic_diagram.png "Framework of LREN")
 
 # Prerequisites
 
@@ -34,6 +34,8 @@ For the ease of reproducibility. We provide experimental results on hyperspectra
 |Coast   |0.9982         |0.0276         |
 |Pavia   |0.9925         |0.0433         |
 |Average |0.9951         |0.0236         |
+
+![Detection_Results]()
 
 ## Extension
 Our approach is based on the following three properties:
