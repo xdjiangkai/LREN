@@ -1,0 +1,7 @@
+sandiego_plane
+lambda=100
+
+Energy-map cluster centers:7 hidden nodes:9
+AUC:0.9900207557388406
+FPR:0.009059130270218412
+lam:0.01
