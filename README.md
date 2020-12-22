@@ -24,7 +24,11 @@ Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
 # Running Code
 In this code, you can run our models on on four [benchmark hyperspectral datasets](http://xudongkang.weebly.com/data-sets.html), including SanDiego, Hydice, Coast, and Pavia.
 ## Usage
-run "python run_main_LREN.py" 
+
+```shell
+python run_main_LREN.py
+```
+
 # Result
 ## Hyperspectral Datasets
 For the ease of reproducibility. We provide experimental results on hyperspectral datasets as belows:
