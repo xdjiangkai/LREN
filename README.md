@@ -23,3 +23,12 @@ Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
 In this code, you can run our models on on four [benchmark hyperspectral datasets](http://xudongkang.weebly.com/data-sets.html), including SanDiego, Hydice, Coast, and Pavia.
 ## Usage
 run "python run_main_LREN.py" 
+## Result
+For the ease of reproducibility. We provide some of the experimental results and as belows:
+|Dataset|AUC(P_d, P_f)|AUC(P_f,\tau)|
+|:-----: |:----------:|:-----------:|
+|SanDiego|0.9897      |0.0134       |
+|Hydice  |0.9998      |0.0102       |
+|Coast   |0.9982      |0.0276       |
+|Pavia   |0.9925      |0.0433       |
+|Average |0.9951      |0.0236       |
