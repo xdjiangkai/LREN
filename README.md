@@ -25,10 +25,10 @@ In this code, you can run our models on on four [benchmark hyperspectral dataset
 run "python run_main_LREN.py" 
 ## Result
 For the ease of reproducibility. We provide some of the experimental results and as belows:
-|Dataset|AUC(P_d, P_f)|AUC(P_f,\tau)|
-|:-----: |:----------:|:-----------:|
-|SanDiego|0.9897      |0.0134       |
-|Hydice  |0.9998      |0.0102       |
-|Coast   |0.9982      |0.0276       |
-|Pavia   |0.9925      |0.0433       |
-|Average |0.9951      |0.0236       |
+|Dataset |AUC($P_d, P_f$)|AUC($P_f,\tau$)|
+|:-----: |:----------:   |:-----------:  |
+|SanDiego|0.9897         |0.0134         |
+|Hydice  |0.9998         |0.0102         |
+|Coast   |0.9982         |0.0276         |
+|Pavia   |0.9925         |0.0433         |
+|Average |0.9951         |0.0236         |
