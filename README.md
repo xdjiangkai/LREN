@@ -35,7 +35,7 @@ For the ease of reproducibility. We provide experimental results on hyperspectra
 |Pavia   |0.9925         |0.0433         |
 |Average |0.9951         |0.0236         |
 
-![Detection_Results]()
+![Detection_Results](https://github.com/xdjiangkai/LREN/blob/main/Result.png "Detection Results")
 
 ## Extension
 Our approach is based on the following three properties:
