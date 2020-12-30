@@ -56,6 +56,6 @@ LREN is applicable to anomaly detection tasks that satisfy these three propertie
 |:-----:   |:----------:   |:-----------:  |:-------:|:-------:|:-------:|
 |Thyroid   |0.9910         |0.0980         |0.8571   |0.6452   |0.7362   |
 |Arrhythmia|0.8353         |0.0490         |0.6389   |0.451    |0.5287   |
-|Musk      |0.9734         |0.4263         |0.0730   |1        |0.1362   |
+
 
 [comment]: <> (|KddCup99  |0.9951         |0.0236         ||||)
