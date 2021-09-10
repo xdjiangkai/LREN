@@ -18,9 +18,9 @@ Framework of LREN:
 - Matplotlib 3.3.0
 # Citation
 If you use this code for your research, please cite:
-
-Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection.
-Kai Jiang, Weiying Xie, Jie Lei, Tao Jiang, Yunsong Li. In AAAI 2021
+```
+Jiang, K., Xie, W., Lei, J., Jiang, T., & Li, Y. (2021). LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection. Proceedings of the AAAI Conference on Artificial Intelligence, 35(5), 4139-4146.
+```
 
 # Running Code
 In this code, you can run our models on on four [benchmark hyperspectral datasets](http://xudongkang.weebly.com/data-sets.html), including SanDiego, Hydice, Coast, and Pavia.
